@@ -1,3 +1,0 @@
-/home/jay/gitlab_workspace/Pytorch_CPlusPlus_Test/build/CMakeFiles/DisplayImage.dir
-/home/jay/gitlab_workspace/Pytorch_CPlusPlus_Test/build/CMakeFiles/edit_cache.dir
-/home/jay/gitlab_workspace/Pytorch_CPlusPlus_Test/build/CMakeFiles/rebuild_cache.dir
